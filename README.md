@@ -22,7 +22,7 @@ If you're setting up the app locally for development or testing purposes, follow
 
    ```bash
    git clone https://github.com/yourusername/ Question-app.git
-   cd question-app
+   cd Question-app
    ```
 
 ### Basic Usage
